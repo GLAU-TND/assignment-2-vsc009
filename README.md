@@ -8,7 +8,7 @@
       1. Root element is placed at opposite end, i.e. in pre order root is the first element where as in post order root is the last element.
       2. They have common mid point, i.e. both the traversal will give same element at the mid position for odd number of nodes.
 ### Problem - 3
-* Implement an queue which follows some order using Linked list. For example create queue of student as per the roll number, in ascending order.
+* Implement an queue which follows some order using Linked list. For example create queue of problem3.student as per the roll number, in ascending order.
 ### Problem - 4
 * Implement a queue to store pre - order successor of all the nodes of given binary search tree.
 ### Problem - 5
